@@ -1,0 +1,25 @@
+{
+
+  "Empleado":[
+  {
+    "id": 1,
+    "Nombre": "Alex Montalvo",
+    "Salario": "1500"
+  }, 
+  {
+    "id": 2,
+    "Nombre": "Alejandro Salazar",
+    "Salario": "1800"
+  },
+  {
+    "id": 3,
+    "Nombre": "Andres Moya",
+    "Salario": "1500"
+  },
+  {
+    "id": 4,
+    "Nombre": "Roberto Barahona",
+    "Salario": "3000"
+  }
+  ]
+}
